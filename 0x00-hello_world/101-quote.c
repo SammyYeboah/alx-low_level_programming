@@ -2,7 +2,7 @@
 #include <unistd.h>
 /**
  * main - entry point to print quote
- *
+ *Description: Prints Dora's quote
  * return: Always 1 (success)
  */
 int main(void)
