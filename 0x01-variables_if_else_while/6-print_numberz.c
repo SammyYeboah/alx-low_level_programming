@@ -10,7 +10,8 @@ int main(void)
 {
 	int f;
 
-	for (f = '0'; f < '10'; f++)
-		putchar(f);
+	for (f = 0; f < 10; f++)
+		putchar(f + '0');
+	putchar('\n');
 	return (0);
 }
