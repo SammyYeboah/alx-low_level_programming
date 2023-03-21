@@ -4,8 +4,7 @@
  * _islower - prints lower case
  *
  * Return: 1 if it is lower case
- *@c:  parameter to be printed
- * Return: 0 if not
+ *@c:  parameter to be printed and 0 if not
  */
 int _islower(int c)
 {
