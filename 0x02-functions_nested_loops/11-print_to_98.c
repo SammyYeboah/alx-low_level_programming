@@ -3,7 +3,7 @@
 
 /**
 * print_to_98 - prints natural numbers
-* @n: parameter 
+* @n: parameter
 */
 void print_to_98(int n)
 {
